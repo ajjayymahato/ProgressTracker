@@ -1,6 +1,6 @@
-# Progress Tracker
+# Interview Progress Tracker
 
-## DSA
+## DSA - Java RoadMap
 - [ ] Complete Git & GitHub Course
 - [ ] Introduction to Programming
   - - [ ] Types of languages
@@ -18,7 +18,7 @@
     - - [ ] loops
     - - [ ] Switch statements
   - - [ ] Data types
-  - - [ ] Coding best practices
+  - - [ ] Coding Best Practices
 - [ ] Functions
   - - [ ] Introduction
   - - [ ] Scoping in Java
